@@ -11,8 +11,6 @@ https://github.com/Sushant369/ROS2-based-Color-Block-Sorting-with-Universal-Robo
 
 The system uses a Universal Robot UR3e robotic arm to identify and sort blocks based on their color. TensorFlow Transfer Learning is employed to train a model capable of color recognition, which then guides the robotic arm to sort the blocks into designated areas. The implementation leverages ROS2 for managing the robot's operations and communications.
 
-## Object Detection Training & Detection code Link
-https://github.com/Sushant369/TensorFlow-UR3e-BlockDetect
 
 ## Features
 
@@ -38,4 +36,4 @@ https://github.com/Sushant369/TensorFlow-UR3e-BlockDetect
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/Sushant369/ROS2-based-Color-Block-Sorting-with-Universal-Robot-UR3e-Using-TensorFlow-Transfer-Learning.git
+git clone https://github.com/PhanindratejaThammi/Universal-Robot-UR3e-for-Color-Block-Sorting-with-ROS2-and-TensorFlow-Transfer-Learning.git
