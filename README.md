@@ -1,4 +1,4 @@
-# ROS2-based Color Block Sorting System using Universal Robot UR3e with TensorFlow Transfer Learning
+# Universal Robot UR3e for Color Block Sorting with ROS2 and TensorFlow Transfer-Learning
 
 This project is a ROS2 implementation of a color block sorting system using the Universal Robots UR3e and TensorFlow Transfer Learning. It aims to provide a comprehensive solution for automated sorting of colored blocks in a controlled environment using advanced robotics and machine learning techniques.
 
